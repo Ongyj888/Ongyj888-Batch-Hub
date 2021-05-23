@@ -6,4 +6,6 @@ v1.0 Added Startup Animation
 
 v1.1 Improved Startup Animation & Added Main Menu
 
-v1.2 Working on
+v1.2 Added Arguments
+
+v1.3 Working on
